@@ -2,13 +2,15 @@ Main HTML Starter
 <!DOCTYPE html>
 <html>
   <head>
-    <center><p><a href="index.html">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="SD">Science Department</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="SF">Security Forces/a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="MTF">Mobile Task Force</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="IST">[REDACTED]</a></p></center>
+    <center><p><a href="index.html"><img src="Glac.png" alt="Logo Of Glacier Organization" style="width:20px;height:20px;">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="SD.html"><img src="SD.png" alt="Logo Of Glacier Organization Science Department" style="width:20px;height:20px;">Science Department</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="SF.html"><img src="SF.png" alt="Logo Of Glacier Organization Securty Forces" style="width:20px;height:20px;">Security Forces</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="MTF.html"><img src="MTF.png" alt="Logo Of Glacier Organization MTF" style="width:20px;height:20px;">Mobile Task Force</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="IST.html"><img src="IST.png" alt="Logo Of Glacier Organization [REDACTED]" style="width:20px;height:20px;">[REDACTED]</a></p></center>
 <p> &nbsp; <p>
   </head>
+  
   <body>
     
   </body>
 </html>
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hi, hamster here, this is a site for a group
